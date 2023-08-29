@@ -1,5 +1,5 @@
-! 애드가드 > 설정 > 필터 > 사용자 지정 필터 > 사용자 지정 필터 추가 > 
-! uBlock Origin > 
+! Adguard > 설정 > 필터 > 사용자 지정 필터 > 사용자 지정 필터 추가 > https://github.com/choonki/filters/raw/main/adguard_user_rules.txt
+! uBlock Origin > 대시보드 > 필터 목록 > 불러오기 > https://github.com/choonki/filters/raw/main/adguard_user_rules.txt
 
 nate.com###viewAppPOP
 nate.com##ol.rk_list>li:nth-of-type(11)
