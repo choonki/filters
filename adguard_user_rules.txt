@@ -15,3 +15,4 @@ nate.com##ol.rk_list>li:nth-of-type(41)
 issuelink.co.kr##.container>.row:nth-of-type(2)
 ruliweb.com##body>.fixed_layer1
 ruliweb.com##body>.fixed_ad_wrapper
+issueya.com##.list-item-cell.bg-light
