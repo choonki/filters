@@ -1,5 +1,11 @@
-! Adguard > 설정 > 필터 > 사용자 지정 필터 > 사용자 지정 필터 추가 > https://github.com/choonki/filters/raw/main/adguard_user_rules.txt
-! uBlock Origin > 대시보드 > 필터 목록 > 불러오기 > https://github.com/choonki/filters/raw/main/adguard_user_rules.txt
+! URL = https://github.com/choonki/filters/raw/main/adguard_user_rules.txt
+!
+! Adguard > 설정 > 필터 > 사용자 지정 필터 > 사용자 지정 필터 추가
+! - 'URL' 입력 > '다음' 버튼
+! - '필터 이름' 입력, '신뢰할 수 있는 필터임' 체크 >  '추가' 버튼
+!
+! uBlock Origin > 대시보드 > 필터 목록 > 불러오기
+! - 'URL' 입력 > '변경사항 적용' 버튼
 
 nate.com###viewAppPOP
 nate.com##ol.rk_list>li:nth-of-type(11)
