@@ -16,3 +16,4 @@ issuelink.co.kr##.container>.row:nth-of-type(2)
 ruliweb.com##body>.fixed_layer1
 ruliweb.com##body>.fixed_ad_wrapper
 issuya.com##.list-item-cell.bg-light
+inven.co.kr##.inven-float-alarm
