@@ -7,7 +7,8 @@
 ! uBlock Origin > 대시보드 > 필터 목록 > 불러오기
 ! - 'URL' 입력 > '변경사항 적용' 버튼
 
-nate.com###viewAppPOP
+!nate.com###viewAppPOP
+nate.com##[id^="viewAppPop"]
 nate.com##ol.rk_list>li:nth-of-type(11)
 nate.com##ol.rk_list>li:nth-of-type(21)
 nate.com##ol.rk_list>li:nth-of-type(31)
