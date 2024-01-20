@@ -16,8 +16,8 @@ nate.com##ol.rk_list>li:nth-of-type(21)
 nate.com##ol.rk_list>li:nth-of-type(31)
 nate.com##ol.rk_list>li:nth-of-type(41)
 
-issuelink.co.kr##.a.ad
-issuelink.co.kr##.a.adsbygoogle
+issuelink.co.kr##.ad
+issuelink.co.kr##.adsbygoogle
 issuelink.co.kr##.container>.row:nth-of-type(2)
 
 m.ruliweb.com###fixed_ad
