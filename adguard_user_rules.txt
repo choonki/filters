@@ -10,6 +10,9 @@
 ! 구글 계정으로 로그인 차단
 ||accounts.google.com/gsi/*$xhr,script,3p
 
+##[id^="hd_pops"]
+##[class^="hd_pops"]
+
 nate.com##[id^="viewAppPop"]
 nate.com##ol.rk_list>li:nth-of-type(11)
 nate.com##ol.rk_list>li:nth-of-type(21)
