@@ -36,5 +36,5 @@ brunch.co.kr###footerBanner
 a-ha.io##.a-modal
 a-ha.io##.a-navigationBar
 
-tvwiki.top##div.video-long-banner
-
+tvwiki.me##.partner-br-wrap
+tvwiki.me##.video-long-banner
