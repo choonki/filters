@@ -38,3 +38,5 @@ a-ha.io##.a-navigationBar
 
 tvwiki.me##.partner-br-wrap
 tvwiki.me##.video-long-banner
+
+mkbs.tv##.popup
