@@ -1,4 +1,4 @@
-! Title: Choonki Filter List
+! Title: Choonki's Filter List
 
 ! 구글 계정으로 로그인 차단
 ||accounts.google.com/gsi/*$xhr,script,3p
