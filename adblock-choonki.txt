@@ -1,0 +1,40 @@
+[Adblock Plus 2.0]
+! Title: Choonki Filter List
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/choonki/filters/
+! License: https://mit-license.org/
+! Description: Choonki's Adblock filter
+! Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/choonki/filters/master/adblock-choonki.txt&title=Choonki%20Filter%20List
+!-------------------------------------------------------------------------------
+
+nate.com##[id^="viewAppPop"]
+nate.com##ol.rk_list>li:nth-of-type(11)
+nate.com##ol.rk_list>li:nth-of-type(21)
+nate.com##ol.rk_list>li:nth-of-type(31)
+nate.com##ol.rk_list>li:nth-of-type(41)
+
+issuelink.co.kr##.ad
+issuelink.co.kr##.warning
+issuelink.co.kr##.adsbygoogle
+issuelink.co.kr##.navbar-top-links
+issuelink.co.kr##.container>.row:nth-of-type(2)
+
+m.ruliweb.com###fixed_ad
+m.ruliweb.com###push_bar
+
+issuya.com##.list-item-cell.bg-light
+
+inven.co.kr##.party-banner
+inven.co.kr##.inven-float-alarm
+
+brunch.co.kr###footerBanner
+
+a-ha.io##.a-modal
+a-ha.io##.a-navigationBar
+
+tvwiki.me##.partner-br-wrap
+tvwiki.me##.video-long-banner
+
+mkbs.tv##.popup
+
+!-------------------------------------------------------------------------------
