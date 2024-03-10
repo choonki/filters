@@ -7,6 +7,9 @@
 ! Subscribe: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/choonki/filters/master/adblock-choonki.txt&title=Choonki%20Filter%20List
 !-------------------------------------------------------------------------------
 
+! Block "Sign in with Google"
+||accounts.google.com/gsi/client$script,third-party
+
 nate.com##[id^="viewAppPop"]
 nate.com##ol.rk_list>li:nth-of-type(11)
 nate.com##ol.rk_list>li:nth-of-type(21)
