@@ -10,6 +10,12 @@
 ! Block "Sign in with Google"
 ||accounts.google.com/gsi/client$script,third-party
 
+! 마나토끼 팝업
+##[id^="hd_pops_"]
+
+! 아지툰 소설 https://agitNNN.xyz/
+##[id^="id_banner_"]
+
 nate.com##[id^="viewAppPop"]
 nate.com##ol.rk_list>li:nth-of-type(11)
 nate.com##ol.rk_list>li:nth-of-type(21)
@@ -39,8 +45,5 @@ tvwiki.me##.partner-br-wrap
 tvwiki.me##.video-long-banner
 
 mkbs.tv##.popup
-
-! 아지툰 소설 https://agitNNN.xyz/
-##[id^="id_banner_"]
 
 !-------------------------------------------------------------------------------
