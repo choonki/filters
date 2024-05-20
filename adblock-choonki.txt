@@ -40,4 +40,7 @@ tvwiki.me##.video-long-banner
 
 mkbs.tv##.popup
 
+! 아지툰 소설 https://agitNNN.xyz/
+##[id^="id_banner_"]
+
 !-------------------------------------------------------------------------------
