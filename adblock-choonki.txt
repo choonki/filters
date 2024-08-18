@@ -16,6 +16,8 @@
 ! 아지툰 소설 https://agitNNN.xyz/
 ##[id^="id_banner_"]
 
+coupang.com###wowForcedFeeChangePopup
+
 nate.com##[id^="viewAppPop"]
 nate.com##ol.rk_list>li:nth-of-type(11)
 nate.com##ol.rk_list>li:nth-of-type(21)
