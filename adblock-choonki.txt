@@ -16,8 +16,8 @@
 ! 아지툰 소설 https://agitNNN.xyz/
 ##[id^="id_banner_"]
 
-##a[target="_blank"][href^="/ad-"]
-##a[target="_blank"][href^="/op-"]
+!##a[target="_blank"][href^="/ad-"]
+!##a[target="_blank"][href^="/op-"]
 
 coupang.com###wowForcedFeeChangePopup
 
